@@ -1,10 +1,17 @@
 body {
-    background-color: lightblue;
+    background-color: lightgrey;
 }
 
 h1 {
   font-family: 'Candal', sans-serif;
 }
+
+h2 {
+  font-family: 'Candal', sans-serif;
+  font-style: italic;
+  background-color: yellow;
+}
+
 
 .center {
   width: 100%;
